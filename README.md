@@ -190,10 +190,14 @@ El primer grupo cuenta con 177 instituciones,  cuenta con algunas instituciones 
  
 ## Uso por colombianos 
 Para poder aplicar el mismo contexto para los colombianos se puede aplicar el mismo concepto que usando los datos abiertos de isntitituciones de educacion superior colombiana usando este [link](https://www.mineducacion.gov.co/portal/estadisticas/Datos-Abiertos-MEN/) , poseen informacion similar a la presentada en el dataframe , asi que se podria hacer una extrapolacion al contexto colombiano y genear una app similar.
+
+
 ## Aplicacion
- 
+[Link de la aplicacion](https://ancgarciamo-trabajo01-tae01-6k2mt8.streamlit.app/)  
+
 ## Link del video 
  
 ## Conclusiones
+Con el anterior agrupamiento podemos formar patrones en las instituciones y con esto generar grupos que generen opciones de instituciones dependiendo de las variables escogidas, gracias esto na persona puede elegir con mas facilidad instituciones de educacion superior por el tipo de grupo
  
 ## Referencias
