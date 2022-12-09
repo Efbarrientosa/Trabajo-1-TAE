@@ -1,0 +1,114 @@
+index,INSTNM,DISTANCEONLY,TUITFTE,ADM_RATE_ALL,NPT4_PRIV,HIGHDEG_ Associate degree,HIGHDEG_ Bachelor&#39;s degree,HIGHDEG_ Certificate degree,HIGHDEG_ Graduate degree,HIGHDEG_ Non-degree-granting,Labels_3Clusters
+149,Baptist Health Schools-Little Rock,0.0,4199.0,0.8615,15238.0,0,0,1,0,0,0
+345,Glendale Career College,0.0,6651.0,1.0,17305.0,0,0,1,0,0,0
+449,North-West College-Pomona,0.0,5273.0,1.0,20043.0,0,0,1,0,0,0
+450,North-West College-West Covina,0.0,5839.0,1.0,19258.0,0,0,1,0,0,0
+451,North-West College-Pasadena,0.0,5084.0,1.0,18434.0,0,0,1,0,0,0
+721,National Conservatory of Dramatic Arts,0.0,6778.0,0.75,11756.0,0,0,1,0,0,0
+946,Portfolio Center,0.0,11415.0,0.8302,37133.0,0,0,1,0,0,0
+976,Med-Assist School of Hawaii Inc,0.0,5666.0,0.8158,21761.0,0,0,1,0,0,0
+1055,Graham Hospital School of Nursing,0.0,12401.0,0.0,24018.0,0,0,1,0,0,0
+1161,National Latino Education Institute,0.0,2174.0,0.5455,12154.0,0,0,1,0,0,0
+1259,Saint Elizabeth School of Nursing,0.0,4614.0,0.4762,26617.0,0,0,1,0,0,0
+1299,UnityPoint Health-Des Moines School of Radiologic Technology,0.0,4144.0,0.3846,9231.0,0,0,1,0,0,0
+1609,L'Academie de Cuisine,0.0,20259.0,0.8421,21965.0,0,0,1,0,0,0
+1670,Signature Healthcare Brockton Hospital School of Nursing,0.0,26810.0,0.3953,14797.0,0,0,1,0,0,0
+1816,Flint Institute of Barbering Inc,0.0,1233.0,0.75,4823.0,0,0,1,0,0,0
+2257,Eastwick College-Hackensack,0.0,8576.0,0.8227,21670.0,0,0,1,0,0,0
+2280,duCret School of Arts,0.0,13683.0,1.0,10473.0,0,0,1,0,0,0
+2294,Holy Name Medical Center School of Nursing,0.0,13840.0,0.3287,33327.0,0,0,1,0,0,0
+2297,Joe Kubert School of Cartoon and Graphic Art,0.0,14135.0,0.784,27601.0,0,0,1,0,0,0
+2307,Muhlenberg Harold B and Dorothy A Snyder Schools-School of Nursing,0.0,20312.0,0.7778,25206.0,0,0,1,0,0,0
+2314,Omega Institute,0.0,4260.0,0.4795,19906.0,0,0,1,0,0,0
+2388,The Ailey School,0.0,28871.0,0.1784,27027.0,0,0,1,0,0,0
+2391,Joffrey Ballet School,0.0,9127.0,1.0,23963.0,0,0,1,0,0,0
+2394,Arnot Ogden Medical Center,0.0,6462.0,0.5625,12580.0,0,0,1,0,0,0
+2395,Associated Beth Rivkah Schools,0.0,8145.0,0.9583,12552.0,0,0,1,0,0,0
+2427,Circle in the Square Theater School,0.0,14927.0,0.931,35087.0,0,0,1,0,0,0
+2533,Mesivta of Eastern Parkway-Yeshiva Zichron Meilech,0.0,9634.0,1.0,7220.0,0,0,0,0,1,0
+2707,Carolina School of Broadcasting,0.0,5728.0,0.6667,21192.0,0,0,1,0,0,0
+2934,Casal Aveda Institute,0.0,8326.0,1.0,9827.0,0,0,1,0,0,0
+3158,Northwest Nannies Institute,0.0,6927.0,0.8,10815.0,0,0,1,0,0,0
+3274,Aria Health School of Nursing,0.0,8227.0,0.875,18496.0,0,0,1,0,0,0
+3405,Reading Hospital School of Health Sciences,0.0,11807.0,0.281,18249.0,0,0,1,0,0,0
+3420,University of Pittsburgh Medical Center-Shadyside School of Nursing,0.0,9732.0,0.8387,26757.0,0,0,1,0,0,0
+3448,Washington Hospital School of Nursing,0.0,977.0,0.25,19169.0,0,0,1,0,0,0
+3454,Western Pennsylvania Hospital School of Nursing,0.0,9143.0,0.1296,14536.0,0,0,1,0,0,0
+3883,AmeriTech College-Provo,0.0,3107.0,0.7755,10251.0,0,0,1,0,0,0
+4108,B M Spurr School of Practical Nursing,0.0,867.0,0.4091,751.0,0,0,1,0,0,0
+4142,West Virginia University Hospital Departments of Rad Tech and Nutrition,0.0,1847.0,0.1327,5777.0,0,0,1,0,0,0
+4284,Modern Hairstyling Institute-Bayamon,0.0,7834.0,1.0,5036.0,0,0,1,0,0,0
+4285,Modern Hairstyling Institute-Arecibo,0.0,6366.0,1.0,6153.0,0,0,1,0,0,0
+4396,TDDS Technical Institute,0.0,13914.0,1.0,6505.0,0,0,1,0,0,0
+4399,Antonelli Medical and Professional Institute,0.0,4966.0,0.9844,19475.0,0,0,1,0,0,0
+4603,Modern Technology School,0.0,11698.0,0.7625,15798.0,0,0,1,0,0,0
+4607,North-West College-Glendale,0.0,4900.0,1.0,15352.0,0,0,1,0,0,0
+4685,School of Automotive Machinists,0.0,10031.0,0.8889,22421.0,0,0,1,0,0,0
+4702,Central Coast College,0.0,9907.0,0.6454,15037.0,0,0,1,0,0,0
+4771,Dance Theatre of Harlem Inc,0.0,17003.0,0.4783,26545.0,0,0,1,0,0,0
+4790,Seminar L'moros Bais Yaakov,0.0,6522.0,0.9781,12942.0,0,0,1,0,0,0
+4984,Motoring Technical Training Institute,0.0,11958.0,1.0,12490.0,0,0,1,0,0,0
+5001,Nevada Career Institute,0.0,6823.0,1.0,20576.0,0,0,1,0,0,0
+5049,Prism Career Institute-Philadelphia,0.0,19955.0,0.4821,21875.0,0,0,1,0,0,0
+5098,D'Mart Institute,0.0,6278.0,0.8146,10420.0,0,0,1,0,0,0
+5111,Atlanta Institute of Music,0.0,17422.0,0.9924,31476.0,0,0,1,0,0,0
+5133,Prism Career Institute-Cherry Hill,0.0,10674.0,0.4821,23081.0,0,0,1,0,0,0
+5171,New York Conservatory for Dramatic Arts,0.0,27753.0,0.709,40545.0,0,0,1,0,0,0
+5190,Merkaz Bnos-Business School,0.0,4186.0,0.8472,25007.0,0,0,1,0,0,0
+5230,Cayce Reilly School of Massotherapy,0.0,9548.0,1.0,14826.0,0,0,1,0,0,0
+5236,Prism Career Institute-West Atlantic City,0.0,13714.0,0.4821,25364.0,0,0,1,0,0,0
+5247,StenoTech Career Institute-Fairfield,0.0,1351.0,1.0,26695.0,0,0,1,0,0,0
+5271,Mercy Hospital School of Nursing,0.0,11748.0,0.7368,28396.0,0,0,1,0,0,0
+5387,International Yacht Restoration School,0.0,14778.0,0.9,14996.0,0,0,1,0,0,0
+5413,Modern Hairstyling Institute-Carolina,0.0,5835.0,1.0,5379.0,0,0,1,0,0,0
+5572,Concorde Career College-Grand Prairie,0.0,12026.0,1.0,19616.0,0,0,1,0,0,0
+5656,Southeastern Institute-Charleston,0.0,9534.0,0.7395,18431.0,0,0,1,0,0,0
+5716,Cambridge Technical Institute,0.0,5189.0,0.4426,1987.0,0,0,1,0,0,0
+5745,Health Works Institute,0.0,12260.0,0.6364,22905.0,0,0,1,0,0,0
+5747,Moore Career College,0.0,13041.0,0.6349,20201.0,0,0,1,0,0,0
+5755,Medical Professional Institute,0.0,13939.0,0.9091,16732.0,0,0,1,0,0,0
+5761,Southeastern Institute-Columbia,0.0,9585.0,0.7692,21121.0,0,0,1,0,0,0
+5793,North-West College-Riverside,0.0,6698.0,1.0,19935.0,0,0,1,0,0,0
+5938,The College of Health Care Professions-Southwest Houston,0.0,8339.0,1.0,20870.0,0,0,1,0,0,0
+6054,The College of Health Care Professions-San Antonio,0.0,7314.0,1.0,18081.0,0,0,1,0,0,0
+6064,Gnomon School of Visual Effects,0.0,25108.0,0.8333,31345.0,0,0,1,0,0,0
+6081,Center for Natural Wellness School of Massage Therapy,0.0,14695.0,1.0,21060.0,0,0,1,0,0,0
+6086,American Institute of Medical Technology,0.0,27086.0,0.3034,4809.0,0,0,1,0,0,0
+6095,Milwaukee Career College,0.0,13991.0,0.7207,22972.0,0,0,1,0,0,0
+6116,StenoTech Career Institute-Piscataway,0.0,1621.0,1.0,17663.0,0,0,1,0,0,0
+6205,Southeastern Institute-Charlotte,0.0,12826.0,0.7048,19901.0,0,0,1,0,0,0
+6369,Casal Institute of Nevada,0.0,7203.0,1.0,11114.0,0,0,1,0,0,0
+6509,Remington College-Columbia Campus,0.0,8634.0,0.7805,20959.0,0,0,1,0,0,0
+6514,San Diego Culinary Institute,0.0,17529.0,1.0,26622.0,0,0,1,0,0,0
+6574,Portland Actors Conservatory,0.0,15323.0,0.9143,16961.0,0,0,1,0,0,0
+6592,Gary Manuel Aveda Institute,0.0,2579.0,0.8347,18564.0,0,0,1,0,0,0
+6781,Cambridge Junior College-Woodland,0.0,9903.0,0.8783,20258.0,0,0,1,0,0,0
+6886,Mesivta Keser Torah,0.0,16583.0,1.0,15045.0,0,0,0,0,1,0
+6919,ITT Technical Institute-Hanover,0.0,11846.0,0.8388,22131.0,0,0,0,0,1,0
+6967,National University College-Caguas,0.0,329.0,0.8571,9912.0,0,0,0,0,1,0
+7061,Virginia College-Tulsa,0.0,15205.0,1.0,15574.0,0,0,1,0,0,0
+7063,Virginia College-Knoxville,0.0,13080.0,1.0,11719.0,0,0,1,0,0,0
+7071,Annenberg School of Nursing,0.0,22008.0,0.9333,18025.0,0,0,0,0,1,0
+7073,Chamberlain College of Nursing-Georgia,0.0,22264.0,0.5081,19754.0,0,0,0,0,1,0
+7074,Chamberlain College of Nursing-Indiana,0.0,20705.0,0.5081,23614.0,0,0,0,0,1,0
+7075,Carrington College-Mesquite,0.0,9950.0,1.0,18586.0,0,0,1,0,0,0
+7077,Virginia College-Shreveport Bossier City,0.0,4271.0,1.0,18836.0,0,0,0,0,1,0
+7153,West Coast University-Dallas,0.0,10244.0,0.5238,38054.0,0,0,0,0,1,0
+7168,MotoRing Technical Training Institute,0.0,18017.0,1.0,16515.0,0,0,1,0,0,0
+7172,ITT Technical Institute-Philadelphia,0.0,11146.0,0.8388,22242.0,0,0,0,0,1,0
+7173,ITT Technical Institute-Marlton,0.0,11144.0,0.8388,22635.0,0,0,0,0,1,0
+7176,ITT Technical Institute-Southfield,0.0,7665.0,0.8388,22565.0,0,0,0,0,1,0
+7178,ITT Technical Institute-Salem,0.0,8663.0,0.8388,22403.0,0,0,0,0,1,0
+7180,ITT Technical Institute-Douglasville,0.0,6012.0,0.8388,23353.0,0,0,0,0,1,0
+7181,ITT Technical Institute-Overland Park,0.0,6680.0,0.8388,23652.0,0,0,0,0,1,0
+7182,ITT Technical Institute-Springfield,0.0,8183.0,0.8388,21437.0,0,0,0,0,1,0
+7183,ITT Technical Institute-West Chester,0.0,6585.0,0.8388,24009.0,0,0,0,0,1,0
+7197,Virginia College-Florence,0.0,5358.0,1.0,17104.0,0,0,0,0,1,0
+7225,Virginia College-Greensboro,0.0,3470.0,1.0,16366.0,0,0,0,0,1,0
+7226,The College of Health Care Professions-Dallas,0.0,845.0,1.0,22461.0,0,0,0,0,1,0
+7227,The College of Health Care Professions-Fort Worth,0.0,576.0,1.0,24859.0,0,0,0,0,1,0
+7233,Gemini School of Visual Arts & Communication,0.0,0.0,1.0,32858.0,0,0,1,0,0,0
+7250,Shepherds College,0.0,36858.0,0.7059,5078.0,0,0,1,0,0,0
+7265,Lawrence & Company College of Cosmetology,0.0,3806.0,1.0,5127.0,0,0,0,0,1,0
+7274,California Career Institute,0.0,7694.0,0.7895,18152.0,0,0,1,0,0,0
+7296,ITT Technical Institute-San Antonio East,0.0,4061.0,0.8388,24517.0,0,0,0,0,1,0

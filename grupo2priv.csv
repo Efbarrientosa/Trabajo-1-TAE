@@ -1,0 +1,426 @@
+index,INSTNM,DISTANCEONLY,TUITFTE,ADM_RATE_ALL,NPT4_PRIV,HIGHDEG_ Associate degree,HIGHDEG_ Bachelor&#39;s degree,HIGHDEG_ Certificate degree,HIGHDEG_ Graduate degree,HIGHDEG_ Non-degree-granting,Labels_3Clusters
+10,Birmingham Southern College,0.0,11928.0,0.6422,22994.0,0,1,0,0,0,2
+22,Herzing University-Birmingham,0.0,8048.0,0.749,22518.0,0,1,0,0,0,2
+23,Huntingdon College,0.0,9074.0,0.6279,17864.0,0,1,0,0,0,2
+30,Judson College,0.0,7626.0,0.7388,17243.0,0,1,0,0,0,2
+52,Southeastern Bible College,0.0,10496.0,0.9615,12954.0,0,1,0,0,0,2
+53,Stillman College,0.0,10367.0,0.43,17473.0,0,1,0,0,0,2
+76,Carrington College-Phoenix,0.0,11721.0,1.0,20501.0,0,1,0,0,0,2
+106,ITT Technical Institute-Tucson,0.0,21110.0,0.8388,22313.0,0,1,0,0,0,2
+107,ITT Technical Institute-Tempe,0.0,21842.0,0.8388,22617.0,0,1,0,0,0,2
+127,Arizona Christian University,0.0,10013.0,0.6076,22493.0,0,1,0,0,0,2
+139,Lyon College,0.0,9863.0,0.5898,12350.0,0,1,0,0,0,2
+152,Central Baptist College,0.0,8457.0,0.5407,11539.0,0,1,0,0,0,2
+177,Ouachita Baptist University,0.0,10088.0,0.7011,16424.0,0,1,0,0,0,2
+180,University of the Ozarks,0.0,11980.0,0.6136,15402.0,0,1,0,0,0,2
+192,Williams Baptist College,0.0,7323.0,0.6798,11326.0,0,1,0,0,0,2
+199,ITT Technical Institute-Rancho Cordova,0.0,19887.0,0.8388,23022.0,0,1,0,0,0,2
+261,California Christian College,0.0,12357.0,0.8333,11734.0,0,1,0,0,0,2
+296,Cogswell College,0.0,19219.0,0.7784,22831.0,0,1,0,0,0,2
+301,Columbia College-Hollywood,0.0,18411.0,0.548,25614.0,0,1,0,0,0,2
+327,Fashion Institute of Design & Merchandising-Los Angeles,0.0,27124.0,0.5979,38960.0,0,1,0,0,0,2
+328,Fashion Institute of Design & Merchandising-San Francisco,0.0,29371.0,0.5979,36184.0,0,1,0,0,0,2
+329,Fashion Institute of Design & Merchandising-Orange County,0.0,19158.0,0.5979,33234.0,0,1,0,0,0,2
+352,Harvey Mudd College,0.0,26798.0,0.1817,24311.0,0,1,0,0,0,2
+368,ITT Technical Institute-National City,0.0,20888.0,0.8388,23139.0,0,1,0,0,0,2
+369,ITT Technical Institute-San Dimas,0.0,18559.0,0.8388,21613.0,0,1,0,0,0,2
+370,ITT Technical Institute-Orange,0.0,19372.0,0.8388,22434.0,0,1,0,0,0,2
+416,Menlo College,0.0,18300.0,0.3705,25918.0,0,1,0,0,0,2
+434,Musicians Institute,0.0,22047.0,0.9888,35680.0,0,1,0,0,0,2
+473,Pitzer College,0.0,44463.0,0.1451,25807.0,0,1,0,0,0,2
+476,Pomona College,0.0,22496.0,0.1392,12557.0,0,1,0,0,0,2
+552,Thomas Aquinas College,0.0,12168.0,0.7921,20155.0,0,1,0,0,0,2
+554,Epic Bible College,0.0,11681.0,0.79,20459.0,0,1,0,0,0,2
+576,Yeshiva Ohr Elchonon Chabad West Coast Talmudical Seminary,0.0,12568.0,1.0,6649.0,0,1,0,0,0,2
+672,Mitchell College,0.0,16771.0,0.5766,28585.0,0,1,0,0,0,2
+689,St Vincent's College,0.0,14428.0,0.7167,17343.0,0,1,0,0,0,2
+727,The Baptist College of Florida,0.0,8251.0,0.4257,9766.0,0,1,0,0,0,2
+747,Eckerd College,0.0,19956.0,0.7104,29864.0,0,1,0,0,0,2
+749,Edward Waters College,0.0,9451.0,0.2732,12443.0,0,1,0,0,0,2
+754,Flagler College-St Augustine,0.0,13574.0,0.4987,21011.0,0,1,0,0,0,2
+755,Florida College,0.0,14628.0,0.5875,19028.0,0,1,0,0,0,2
+787,ITT Technical Institute-Tampa,0.0,24564.0,0.8388,23227.0,0,1,0,0,0,2
+811,Remington College-Tampa Campus,0.0,10984.0,0.7805,19573.0,0,1,0,0,0,2
+832,Ringling College of Art and Design,0.0,33814.0,0.7331,45774.0,0,1,0,0,0,2
+869,Rasmussen College-Florida,0.0,14592.0,0.7679,19529.0,0,1,0,0,0,2
+876,Agnes Scott College,0.0,12153.0,0.6687,18635.0,0,1,0,0,0,2
+887,Point University,0.0,8779.0,0.5353,17800.0,0,1,0,0,0,2
+899,Brewton-Parker College,0.0,5603.0,0.5137,13146.0,0,1,0,0,0,2
+914,Emmanuel College,0.0,8333.0,0.4783,12333.0,0,1,0,0,0,2
+937,Herzing University-Atlanta,0.0,6773.0,0.749,21925.0,0,1,0,0,0,2
+939,Morehouse College,0.0,12500.0,0.6684,30456.0,0,1,0,0,0,2
+944,Paine College,0.0,11414.0,0.4377,14392.0,0,1,0,0,0,2
+954,Spelman College,0.0,13571.0,0.3802,31923.0,0,1,0,0,0,2
+958,Toccoa Falls College,0.0,9853.0,0.494,16526.0,0,1,0,0,0,2
+959,Truett-McConnell College,0.0,7499.0,0.8064,15457.0,0,1,0,0,0,2
+964,Young Harris College,0.0,8213.0,0.5365,15661.0,0,1,0,0,0,2
+982,Boise Bible College,0.0,10490.0,1.0,19027.0,0,1,0,0,0,2
+989,ITT Technical Institute-Boise,0.0,25088.0,0.8388,23914.0,0,1,0,0,0,2
+995,Brigham Young University-Idaho,0.0,2404.0,0.9963,7409.0,0,1,0,0,0,2
+1000,American Academy of Art,0.0,24434.0,0.93,26573.0,0,1,0,0,0,2
+1002,Augustana College,0.0,17277.0,0.5867,22969.0,0,1,0,0,0,2
+1008,Blackburn College,0.0,12449.0,0.6799,13536.0,0,1,0,0,0,2
+1049,Eureka College,0.0,13580.0,0.6781,17773.0,0,1,0,0,0,2
+1068,Illinois Wesleyan University,0.0,19780.0,0.5838,26398.0,0,1,0,0,0,2
+1070,Illinois College,0.0,10968.0,0.6129,17475.0,0,1,0,0,0,2
+1085,Kendall College,0.0,12687.0,0.8773,36370.0,0,1,0,0,0,2
+1087,Knox College,0.0,17592.0,0.7496,20818.0,0,1,0,0,0,2
+1098,Lincoln College,0.0,9803.0,0.8747,16485.0,0,1,0,0,0,2
+1107,MacMurray College,0.0,13222.0,0.7488,16086.0,0,1,0,0,0,2
+1112,Methodist College,0.0,16410.0,0.8636,29545.0,0,1,0,0,0,2
+1113,Midstate College,0.0,14752.0,0.84,22314.0,0,1,0,0,0,2
+1115,Monmouth College,0.0,12890.0,0.6431,15685.0,0,1,0,0,0,2
+1157,Shimer College,0.0,19756.0,0.2857,30182.0,0,1,0,0,0,2
+1169,Telshe Yeshiva-Chicago,0.0,13088.0,1.0,7397.0,0,1,0,0,0,2
+1172,Trinity Christian College,0.0,17333.0,0.9022,20439.0,0,1,0,0,0,2
+1193,DePauw University,0.0,16598.0,0.6121,22171.0,0,1,0,0,0,2
+1198,Franklin College,0.0,12848.0,0.6002,20438.0,0,1,0,0,0,2
+1203,Hanover College,0.0,12306.0,0.6673,21002.0,0,1,0,0,0,2
+1205,Holy Cross College,0.0,13361.0,0.7231,17637.0,0,1,0,0,0,2
+1211,Harrison College-Indianapolis,0.0,16157.0,1.0,19196.0,0,1,0,0,0,2
+1222,International Business College-Fort Wayne,0.0,14104.0,0.8297,17673.0,0,1,0,0,0,2
+1224,ITT Technical Institute-Nashville,0.0,21586.0,0.8388,22291.0,0,1,0,0,0,2
+1225,ITT Technical Institute-Fort Wayne,0.0,24312.0,0.8388,22119.0,0,1,0,0,0,2
+1256,Saint Mary's College,0.0,17632.0,0.8568,24319.0,0,1,0,0,0,2
+1267,AIB College of Business,0.0,7261.0,0.6887,11581.0,0,1,0,0,0,2
+1273,Central College,0.0,14535.0,0.658,21540.0,0,1,0,0,0,2
+1276,Cornell College,0.0,12337.0,0.6411,18783.0,0,1,0,0,0,2
+1279,Divine Word College,0.0,14773.0,1.0,1539.0,0,1,0,0,0,2
+1290,Grinnell College,0.0,15346.0,0.3506,19368.0,0,1,0,0,0,2
+1303,Iowa Wesleyan College,0.0,12505.0,0.6012,18242.0,0,1,0,0,0,2
+1312,Luther College,0.0,16383.0,0.7212,24238.0,0,1,0,0,0,2
+1315,Mercy College of Health Sciences,0.0,15358.0,0.785,18527.0,0,1,0,0,0,2
+1321,Northwestern College,0.0,11921.0,0.7609,19499.0,0,1,0,0,0,2
+1339,Waldorf College,0.0,9351.0,0.5067,19306.0,0,1,0,0,0,2
+1340,Wartburg College,0.0,15149.0,0.7765,22124.0,0,1,0,0,0,2
+1349,Bethany College,0.0,7119.0,0.5882,18807.0,0,1,0,0,0,2
+1350,Bethel College-North Newton,0.0,11915.0,0.644,18539.0,0,1,0,0,0,2
+1356,Central Christian College of Kansas,0.0,7609.0,0.5045,19630.0,0,1,0,0,0,2
+1389,Manhattan Christian College,0.0,9889.0,0.5988,15525.0,0,1,0,0,0,2
+1390,McPherson College,0.0,10118.0,0.866,20191.0,0,1,0,0,0,2
+1404,Sterling College,0.0,9016.0,0.4405,16264.0,0,1,0,0,0,2
+1410,Alice Lloyd College,0.0,7142.0,0.4502,9014.0,0,1,0,0,0,2
+1416,Berea College,0.0,2121.0,0.3401,1776.0,0,1,0,0,0,2
+1422,Centre College,0.0,16551.0,0.6857,23381.0,0,1,0,0,0,2
+1442,Kentucky Mountain Bible College,0.0,7117.0,0.5075,9746.0,0,1,0,0,0,2
+1444,Kentucky Wesleyan College,0.0,5630.0,0.671,15017.0,0,1,0,0,0,2
+1449,Sullivan College of Technology and Design,0.0,18337.0,0.8305,29297.0,0,1,0,0,0,2
+1479,Transylvania University,0.0,12776.0,0.9615,20488.0,0,1,0,0,0,2
+1500,Dillard University,0.0,12589.0,0.3544,16233.0,0,1,0,0,0,2
+1552,Bates College,0.0,41018.0,0.2417,24936.0,0,1,0,0,0,2
+1554,Bowdoin College,0.0,30863.0,0.1495,18613.0,0,1,0,0,0,2
+1557,Colby College,0.0,30380.0,0.2604,23428.0,0,1,0,0,0,2
+1578,Unity College,0.0,15583.0,0.8882,21733.0,0,1,0,0,0,2
+1646,Amherst College,0.0,22937.0,0.1428,19449.0,0,1,0,0,0,2
+1653,Boston Baptist College,0.0,16374.0,0.8065,21380.0,0,1,0,0,0,2
+1655,Bay State College,0.0,17194.0,0.5845,25440.0,0,1,0,0,0,2
+1657,Becker College,0.0,17590.0,0.6255,28697.0,0,1,0,0,0,2
+1659,Berklee College of Music,0.0,30454.0,0.3617,43018.0,0,1,0,0,0,2
+1675,Laboure College,0.0,20037.0,0.873,28130.0,0,1,0,0,0,2
+1680,Dean College,0.0,17320.0,0.6835,25716.0,0,1,0,0,0,2
+1689,Fisher College,0.0,12333.0,0.6273,30797.0,0,1,0,0,0,2
+1697,Hampshire College,0.0,23330.0,0.6369,32520.0,0,1,0,0,0,2
+1702,College of the Holy Cross,0.0,25900.0,0.3297,32118.0,0,1,0,0,0,2
+1743,Newbury College,0.0,16433.0,0.5953,24111.0,0,1,0,0,0,2
+1762,Bard College at Simon's Rock,0.0,21625.0,0.922,29821.0,0,1,0,0,0,2
+1768,Stonehill College,0.0,21131.0,0.7091,30743.0,0,1,0,0,0,2
+1772,Wellesley College,0.0,18628.0,0.2911,21930.0,0,1,0,0,0,2
+1776,Wheaton College,0.0,23663.0,0.6737,30179.0,0,1,0,0,0,2
+1781,Adrian College,0.0,13466.0,0.5628,19151.0,0,1,0,0,0,2
+1782,Albion College,0.0,15567.0,0.5639,23479.0,0,1,0,0,0,2
+1785,Alma College,0.0,13817.0,0.6791,20130.0,0,1,0,0,0,2
+1820,Grace Bible College,0.0,8846.0,0.7486,12770.0,0,1,0,0,0,2
+1827,Hope College,0.0,16577.0,0.7253,23641.0,0,1,0,0,0,2
+1828,ITT Technical Institute-Wyoming,0.0,26705.0,0.8388,23365.0,0,1,0,0,0,2
+1831,Kalamazoo College,0.0,17262.0,0.6689,21531.0,0,1,0,0,0,2
+1881,Finlandia University,0.0,14332.0,0.5883,17467.0,0,1,0,0,0,2
+1901,Bethany Lutheran College,0.0,11539.0,0.7458,16598.0,0,1,0,0,0,2
+1905,Carleton College,0.0,28644.0,0.2095,28734.0,0,1,0,0,0,2
+1916,Gustavus Adolphus College,0.0,18703.0,0.6322,23162.0,0,1,0,0,0,2
+1927,Macalester College,0.0,21073.0,0.3416,22653.0,0,1,0,0,0,2
+1941,Herzing University-Minneapolis,0.0,10948.0,0.749,16023.0,0,1,0,0,0,2
+1943,Crossroads College,0.0,9905.0,0.2143,15762.0,0,1,0,0,0,2
+1953,North Central University,0.0,12625.0,0.9521,19031.0,0,1,0,0,0,2
+1958,Oak Hills Christian College,0.0,24896.0,0.5873,15540.0,0,1,0,0,0,2
+1963,College of Saint Benedict,0.0,19467.0,0.7554,23518.0,0,1,0,0,0,2
+1969,St Olaf College,0.0,22480.0,0.5919,24227.0,0,1,0,0,0,2
+1975,Rasmussen College-Minnesota,0.0,16215.0,0.7679,20689.0,0,1,0,0,0,2
+1981,Dunwoody College of Technology,0.0,16889.0,0.7243,27096.0,0,1,0,0,0,2
+2020,Rust College,0.0,8204.0,0.1386,8500.0,0,1,0,0,0,2
+2025,Tougaloo College,0.0,7470.0,0.3551,11263.0,0,1,0,0,0,2
+2032,ITT Technical Institute-Earth City,0.0,21870.0,0.8388,21068.0,0,1,0,0,0,2
+2038,Central Christian College of the Bible,0.0,4137.0,0.5838,14271.0,0,1,0,0,0,2
+2039,Central Methodist University-College of Liberal Arts and Sciences,0.0,15278.0,0.6506,17801.0,0,1,0,0,0,2
+2046,Conception Seminary College,0.0,18858.0,0.9524,27549.0,0,1,0,0,0,2
+2048,Cottey College,0.0,8074.0,0.7063,16146.0,0,1,0,0,0,2
+2051,Culver-Stockton College,0.0,9142.0,0.5926,15840.0,0,1,0,0,0,2
+2070,Kansas City Art Institute,0.0,18340.0,0.643,22391.0,0,1,0,0,0,2
+2093,Missouri Tech,0.0,18228.0,1.0,28830.0,0,1,0,0,0,2
+2109,College of the Ozarks,0.0,379.0,0.1301,11491.0,0,1,0,0,0,2
+2123,Saint Louis Christian College,0.0,4937.0,0.9886,10552.0,0,1,0,0,0,2
+2144,Westminster College,0.0,8418.0,0.719,18948.0,0,1,0,0,0,2
+2145,William Jewell College,0.0,9833.0,0.5778,21805.0,0,1,0,0,0,2
+2152,Carroll College,0.0,13810.0,0.53,23583.0,0,1,0,0,0,2
+2181,Doane College-Crete,0.0,12140.0,0.7173,21713.0,0,1,0,0,0,2
+2209,York College,0.0,10118.0,0.489,17575.0,0,1,0,0,0,2
+2224,Colby-Sawyer College,0.0,10764.0,0.8312,22644.0,0,1,0,0,0,2
+2253,Saint Anselm College,0.0,20151.0,0.7365,29704.0,0,1,0,0,0,2
+2321,Rabbinical College of America,0.0,8825.0,1.0,12614.0,0,1,0,0,0,2
+2339,Talmudical Academy-New Jersey,0.0,7582.0,1.0,3484.0,0,1,0,0,0,2
+2392,American Musical and Dramatic Academy,0.0,23111.0,0.2603,35540.0,0,1,0,0,0,2
+2399,Barnard College,0.0,30150.0,0.2053,26487.0,0,1,0,0,0,2
+2402,Beth Hatalmud Rabbinical College,0.0,5551.0,1.0,4726.0,0,1,0,0,0,2
+2403,Beth Hamedrash Shaarei Yosher Institute,0.0,15207.0,1.0,3737.0,0,1,0,0,0,2
+2423,Cazenovia College,0.0,9719.0,0.7795,17655.0,0,1,0,0,0,2
+2446,Culinary Institute of America,0.0,25756.0,0.8967,31870.0,0,1,0,0,0,2
+2486,Hamilton College,0.0,30431.0,0.2719,19961.0,0,1,0,0,0,2
+2487,Hartwick College,0.0,21251.0,0.8424,25628.0,0,1,0,0,0,2
+2518,Machzikei Hadath Rabbinical College,0.0,5933.0,1.0,8897.0,0,1,0,0,0,2
+2523,Maria College of Albany,0.0,12633.0,0.1603,12893.0,0,1,0,0,0,2
+2527,Marymount Manhattan College,0.0,21397.0,0.7463,33146.0,0,1,0,0,0,2
+2568,Ohr Hameir Theological Seminary,0.0,14943.0,1.0,11840.0,0,1,0,0,0,2
+2573,Paul Smiths College of Arts and Science,0.0,12425.0,0.7474,23258.0,0,1,0,0,0,2
+2575,Plaza College,0.0,588.0,0.2992,11933.0,0,1,0,0,0,2
+2577,Davis College,0.0,9951.0,0.5859,13004.0,0,1,0,0,0,2
+2583,Rabbinical College Beth Shraga,0.0,21844.0,1.0,11427.0,0,1,0,0,0,2
+2653,Talmudical Seminary Oholei Torah,0.0,11193.0,1.0,12029.0,0,1,0,0,0,2
+2658,Torah Temimah Talmudical Seminary,0.0,9404.0,1.0,7851.0,0,1,0,0,0,2
+2660,Trocaire College,0.0,15995.0,0.9689,18159.0,0,1,0,0,0,2
+2664,Union College,0.0,27943.0,0.3728,32533.0,0,1,0,0,0,2
+2670,Vassar College,0.0,24134.0,0.2411,20386.0,0,1,0,0,0,2
+2671,Villa Maria College,0.0,16615.0,0.8066,14445.0,0,1,0,0,0,2
+2674,Webb Institute,0.0,0.0,0.2952,16128.0,0,1,0,0,0,2
+2675,Wells College,0.0,13966.0,0.5967,19739.0,0,1,0,0,0,2
+2681,Yeshiva Karlin Stolin,0.0,6678.0,1.0,4140.0,0,1,0,0,0,2
+2685,Yeshiva Shaar Hatorah,0.0,18194.0,0.8438,5223.0,0,1,0,0,0,2
+2690,The Art Institute of Charlotte,0.0,16463.0,0.4829,27931.0,0,1,0,0,0,2
+2696,Belmont Abbey College,0.0,9837.0,0.6759,21950.0,0,1,0,0,0,2
+2697,Bennett College,0.0,8378.0,0.8261,20031.0,0,1,0,0,0,2
+2700,Brevard College,0.0,12230.0,0.4489,19166.0,0,1,0,0,0,2
+2703,Cabarrus College of Health Sciences,0.0,8381.0,0.3107,12996.0,0,1,0,0,0,2
+2719,Davidson College,0.0,19936.0,0.2561,19143.0,0,1,0,0,0,2
+2733,Guilford College,0.0,13264.0,0.6818,28417.0,0,1,0,0,0,2
+2742,Johnson C Smith University,0.0,10822.0,0.3668,17384.0,0,1,0,0,0,2
+2744,Lees-McRae College,0.0,10218.0,0.6648,21833.0,0,1,0,0,0,2
+2748,Livingstone College,0.0,11219.0,0.7122,15680.0,0,1,0,0,0,2
+2764,Mount Olive College,0.0,9598.0,0.4979,12144.0,0,1,0,0,0,2
+2775,North Carolina Wesleyan College,0.0,12302.0,0.4676,19532.0,0,1,0,0,0,2
+2778,William Peace University,0.0,11537.0,0.9086,18396.0,0,1,0,0,0,2
+2787,Mid-Atlantic Christian University,0.0,6808.0,0.4107,17159.0,0,1,0,0,0,2
+2792,Saint Augustine's University,0.0,7143.0,0.6738,23409.0,0,1,0,0,0,2
+2798,St Andrews University,0.0,9384.0,0.6412,19342.0,0,1,0,0,0,2
+2821,Rasmussen College-North Dakota,0.0,15334.0,0.7679,20179.0,0,1,0,0,0,2
+2850,Akron Institute of Herzing University,0.0,7687.0,0.749,20301.0,0,1,0,0,0,2
+2895,Cleveland Institute of Art,0.0,18008.0,0.6825,28458.0,0,1,0,0,0,2
+2908,Denison University,0.0,22211.0,0.4597,23507.0,0,1,0,0,0,2
+2917,Gods Bible School and College,0.0,5246.0,1.0,8975.0,0,1,0,0,0,2
+2930,ITT Technical Institute-Dayton,0.0,22057.0,0.8388,24258.0,0,1,0,0,0,2
+2933,Hondros College,0.0,14280.0,0.7442,31311.0,0,1,0,0,0,2
+2943,Kenyon College,0.0,25125.0,0.3838,28132.0,0,1,0,0,0,2
+2957,Mercy College of Ohio,0.0,11072.0,0.7429,19434.0,0,1,0,0,0,2
+3005,Ohio Wesleyan University,0.0,14829.0,0.7533,25157.0,0,1,0,0,0,2
+3058,Wittenberg University,0.0,15042.0,0.8932,26616.0,0,1,0,0,0,2
+3059,The College of Wooster,0.0,17867.0,0.5633,21455.0,0,1,0,0,0,2
+3063,ITT Technical Institute-Youngstown,0.0,21577.0,0.8388,21212.0,0,1,0,0,0,2
+3066,Bacone College,0.0,3958.0,0.7182,14635.0,0,1,0,0,0,2
+3086,Spartan College of Aeronautics and Technology,0.0,18308.0,1.0,22415.0,0,1,0,0,0,2
+3142,New Hope Christian College-Eugene,0.0,14942.0,0.3,13628.0,0,1,0,0,0,2
+3145,ITT Technical Institute-Portland,0.0,22460.0,0.8388,23671.0,0,1,0,0,0,2
+3148,Linfield College-McMinnville Campus,0.0,20413.0,0.9219,24893.0,0,1,0,0,0,2
+3200,Allegheny College,0.0,19263.0,0.6487,25147.0,0,1,0,0,0,2
+3246,Dickinson College,0.0,26821.0,0.4444,29678.0,0,1,0,0,0,2
+3275,Franklin and Marshall College,0.0,28483.0,0.3931,27461.0,0,1,0,0,0,2
+3278,Gettysburg College,0.0,27513.0,0.4163,24361.0,0,1,0,0,0,2
+3286,Haverford College,0.0,25687.0,0.2349,18853.0,0,1,0,0,0,2
+3306,Lafayette College,0.0,26630.0,0.3414,30804.0,0,1,0,0,0,2
+3325,Lycoming College,0.0,14021.0,0.7162,21127.0,0,1,0,0,0,2
+3341,Muhlenberg College,0.0,22437.0,0.4616,29528.0,0,1,0,0,0,2
+3382,Pennsylvania College of Art and Design,0.0,20739.0,0.3614,24304.0,0,1,0,0,0,2
+3430,Susquehanna University,0.0,18087.0,0.7233,24954.0,0,1,0,0,0,2
+3431,Swarthmore College,0.0,25716.0,0.1432,24166.0,0,1,0,0,0,2
+3433,Talmudical Yeshiva of Philadelphia,0.0,16627.0,0.7273,10018.0,0,1,0,0,0,2
+3435,Thiel College,0.0,13482.0,0.655,22402.0,0,1,0,0,0,2
+3443,Ursinus College,0.0,20898.0,0.6633,28575.0,0,1,0,0,0,2
+3450,Washington & Jefferson College,0.0,21633.0,0.3973,26491.0,0,1,0,0,0,2
+3500,Coker College,0.0,11021.0,0.5326,16175.0,0,1,0,0,0,2
+3515,Limestone College,0.0,10219.0,0.5322,21619.0,0,1,0,0,0,2
+3520,Newberry College,0.0,10741.0,0.5908,18405.0,0,1,0,0,0,2
+3524,Presbyterian College,0.0,15548.0,0.66,17681.0,0,1,0,0,0,2
+3542,Voorhees College,0.0,7971.0,0.5051,15349.0,0,1,0,0,0,2
+3545,Wofford College,0.0,15560.0,0.688,25459.0,0,1,0,0,0,2
+3563,Presentation College,0.0,12537.0,0.6608,20593.0,0,1,0,0,0,2
+3576,Aquinas College,0.0,14327.0,0.521,26500.0,0,1,0,0,0,2
+3580,Baptist Memorial College of Health Sciences,0.0,12396.0,0.463,9425.0,0,1,0,0,0,2
+3607,Hiwassee College,0.0,9932.0,0.5836,15126.0,0,1,0,0,0,2
+3617,Lane College,0.0,8453.0,0.4916,10823.0,0,1,0,0,0,2
+3618,Le Moyne-Owen College,0.0,9809.0,0.2335,12091.0,0,1,0,0,0,2
+3623,Maryville College,0.0,11869.0,0.7259,14809.0,0,1,0,0,0,2
+3642,O'More College of Design,0.0,26168.0,0.5816,23090.0,0,1,0,0,0,2
+3662,Tennessee Wesleyan College,0.0,10090.0,0.713,12576.0,0,1,0,0,0,2
+3757,ITT Technical Institute-Arlington,0.0,19963.0,0.8388,23932.0,0,1,0,0,0,2
+3758,ITT Technical Institute-Houston West,0.0,18715.0,0.8388,22146.0,0,1,0,0,0,2
+3777,McMurry University,0.0,12419.0,0.5924,17803.0,0,1,0,0,0,2
+3805,Paul Quinn College,0.0,14259.0,0.9858,13197.0,0,1,0,0,0,2
+3831,Southwestern University,0.0,16516.0,0.5217,21292.0,0,1,0,0,0,2
+3897,ITT Technical Institute-Murray,0.0,23875.0,0.8388,24182.0,0,1,0,0,0,2
+3921,Marlboro College,0.0,23247.0,0.7586,28056.0,0,1,0,0,0,2
+3929,Southern Vermont College,0.0,12181.0,0.994,21372.0,0,1,0,0,0,2
+3930,Sterling College,0.0,20028.0,0.9388,20072.0,0,1,0,0,0,2
+3938,Bluefield College,0.0,10152.0,0.5729,20132.0,0,1,0,0,0,2
+3939,Bridgewater College,0.0,11097.0,0.5493,18728.0,0,1,0,0,0,2
+3956,Ferrum College,0.0,13814.0,0.7411,16858.0,0,1,0,0,0,2
+3959,Hampden-Sydney College,0.0,15493.0,0.5486,24876.0,0,1,0,0,0,2
+3990,Randolph-Macon College,0.0,15833.0,0.637,24731.0,0,1,0,0,0,2
+3995,Bon Secours Memorial College of Nursing,0.0,6935.0,0.5714,22508.0,0,1,0,0,0,2
+3998,Roanoke College,0.0,15220.0,0.7281,26451.0,0,1,0,0,0,2
+4001,Southern Virginia University,0.0,11560.0,0.9987,20583.0,0,1,0,0,0,2
+4023,Virginia Wesleyan College,0.0,16202.0,0.9311,22241.0,0,1,0,0,0,2
+4062,ITT Technical Institute-Seattle,0.0,22566.0,0.9407,24358.0,0,1,0,0,0,2
+4063,ITT Technical Institute-Spokane Valley,0.0,21736.0,0.9407,23101.0,0,1,0,0,0,2
+4102,Whitman College,0.0,27409.0,0.5696,34753.0,0,1,0,0,0,2
+4117,Davis & Elkins College,0.0,11611.0,0.5734,16575.0,0,1,0,0,0,2
+4159,Beloit College,0.0,18060.0,0.6769,21979.0,0,1,0,0,0,2
+4171,ITT Technical Institute-Greenfield,0.0,24595.0,0.8388,23039.0,0,1,0,0,0,2
+4174,Lawrence University,0.0,20673.0,0.7269,24765.0,0,1,0,0,0,2
+4182,Milwaukee Institute of Art & Design,0.0,17123.0,0.6119,23541.0,0,1,0,0,0,2
+4191,Northland College,0.0,11920.0,0.5907,17023.0,0,1,0,0,0,2
+4192,Ripon College,0.0,13443.0,0.7515,19254.0,0,1,0,0,0,2
+4257,EDP University of Puerto Rico Inc-San Sebastian,0.0,7608.0,0.9845,8117.0,0,1,0,0,0,2
+4287,National University College-Arecibo,0.0,493.0,0.8571,8483.0,0,1,0,0,0,2
+4319,ITT Technical Institute-Sylmar,0.0,21555.0,0.8388,21321.0,0,1,0,0,0,2
+4320,ITT Technical Institute-Westminster,0.0,25074.0,0.8388,23930.0,0,1,0,0,0,2
+4408,ITT Technical Institute-Newburgh,0.0,22230.0,0.8388,23921.0,0,1,0,0,0,2
+4419,Platt College-Aurora,0.0,12704.0,0.0,39042.0,0,1,0,0,0,2
+4426,ITT Technical Institute-Arlington Heights,0.0,25072.0,0.8388,20984.0,0,1,0,0,0,2
+4432,ITT Technical Institute-Troy,0.0,25371.0,0.8388,23727.0,0,1,0,0,0,2
+4438,Skyline College-Roanoke,0.0,15733.0,0.7978,20379.0,0,1,0,0,0,2
+4527,ITT Technical Institute-Norwood,0.0,21689.0,0.8388,23390.0,0,1,0,0,0,2
+4531,ITT Technical Institute-Knoxville,0.0,23787.0,0.8388,22592.0,0,1,0,0,0,2
+4532,ITT Technical Institute-Austin,0.0,20287.0,0.8388,23380.0,0,1,0,0,0,2
+4533,ITT Technical Institute-Houston North,0.0,20376.0,0.8388,22593.0,0,1,0,0,0,2
+4567,Nossi College of Art,0.0,6601.0,0.6077,19391.0,0,1,0,0,0,2
+4569,ITT Technical Institute-Norfolk,0.0,23108.0,0.8388,24321.0,0,1,0,0,0,2
+4578,ITT Technical Institute-Albuquerque,0.0,22902.0,0.8388,25041.0,0,1,0,0,0,2
+4617,ITT Technical Institute-Lake Mary,0.0,24948.0,0.8388,23072.0,0,1,0,0,0,2
+4621,Remington College-Honolulu Campus,0.0,10044.0,0.7805,21231.0,0,1,0,0,0,2
+4632,New England School of Communications,0.0,13220.0,0.3005,20864.0,0,1,0,0,0,2
+4682,ITT Technical Institute-San Antonio,0.0,21230.0,0.8388,22958.0,0,1,0,0,0,2
+4693,Northwest College of Art & Design,0.0,17883.0,0.8235,25277.0,0,1,0,0,0,2
+4703,ITT Technical Institute-Torrance,0.0,22484.0,0.8388,21627.0,0,1,0,0,0,2
+4743,ITT Technical Institute-San Bernardino,0.0,22853.0,0.8388,20542.0,0,1,0,0,0,2
+4779,Beacon College,0.0,28610.0,0.6475,39484.0,0,1,0,0,0,2
+4784,Rabbi Jacob Joseph School,0.0,10716.0,1.0,8415.0,0,1,0,0,0,2
+4791,Herzing University-Winter Park,0.0,12224.0,0.749,25621.0,0,1,0,0,0,2
+4813,Watkins College of Art Design & Film,0.0,18212.0,0.3498,25540.0,0,1,0,0,0,2
+4866,Yeshivas Novominsk,0.0,18979.0,1.0,7178.0,0,1,0,0,0,2
+4869,Rabbinical College of Ohr Shimon Yisroel,0.0,6331.0,1.0,6152.0,0,1,0,0,0,2
+4892,ITT Technical Institute-Jacksonville,0.0,19441.0,0.8388,24340.0,0,1,0,0,0,2
+4898,ITT Technical Institute-Omaha,0.0,22481.0,0.8388,24246.0,0,1,0,0,0,2
+4931,ITT Technical Institute-Fort Lauderdale,0.0,20134.0,0.8388,23219.0,0,1,0,0,0,2
+4975,ITT Technical Institute-Little Rock,0.0,22469.0,0.8388,24184.0,0,1,0,0,0,2
+4976,ITT Technical Institute-Oxnard,0.0,21689.0,0.8388,22468.0,0,1,0,0,0,2
+4977,ITT Technical Institute-Louisville,0.0,21779.0,0.8388,23975.0,0,1,0,0,0,2
+4978,ITT Technical Institute-Greenville,0.0,21829.0,0.8388,24633.0,0,1,0,0,0,2
+4979,ITT Technical Institute-Cordova,0.0,22506.0,0.8388,22174.0,0,1,0,0,0,2
+4989,ITT Technical Institute-Everett,0.0,22479.0,0.9407,21169.0,0,1,0,0,0,2
+4992,ITT Technical Institute-Bessemer,0.0,20383.0,0.8388,23015.0,0,1,0,0,0,2
+4993,ITT Technical Institute-Orland Park,0.0,20275.0,0.8388,22960.0,0,1,0,0,0,2
+4996,Johnson & Wales University-North Miami,0.0,15126.0,0.7079,21973.0,0,1,0,0,0,2
+5044,Messenger College,0.0,2018.0,0.7619,13565.0,0,1,0,0,0,2
+5139,Virginia College-Huntsville,0.0,23800.0,1.0,18691.0,0,1,0,0,0,2
+5140,Yeshiva D'monsey Rabbinical College,0.0,4722.0,1.0,12371.0,0,1,0,0,0,2
+5192,ITT Technical Institute-Webster,0.0,21577.0,0.8388,22894.0,0,1,0,0,0,2
+5216,ITT Technical Institute-Henderson,0.0,23056.0,0.8388,23461.0,0,1,0,0,0,2
+5229,ITT Technical Institute-Miami,0.0,24016.0,0.8388,22202.0,0,1,0,0,0,2
+5234,ITT Technical Institute-Norwood,0.0,22511.0,0.8388,23140.0,0,1,0,0,0,2
+5235,ITT Technical Institute-Strongsville,0.0,20896.0,0.8388,21622.0,0,1,0,0,0,2
+5238,The Creative Center,0.0,23768.0,0.5316,40238.0,0,1,0,0,0,2
+5282,Yeshiva of the Telshe Alumni,0.0,19677.0,1.0,8812.0,0,1,0,0,0,2
+5306,Herzing University-Kenner,0.0,6655.0,0.749,23674.0,0,1,0,0,0,2
+5312,ITT Technical Institute-Richardson,0.0,18524.0,0.8388,24015.0,0,1,0,0,0,2
+5324,Michigan Jewish Institute,0.0,14539.0,0.981,9804.0,0,1,0,0,0,2
+5332,ITT Technical Institute-Arnold,0.0,24792.0,0.8388,23875.0,0,1,0,0,0,2
+5333,ITT Technical Institute-Oak Brook,0.0,21425.0,0.8388,21407.0,0,1,0,0,0,2
+5381,ITT Technical Institute-Saint Rose,0.0,21957.0,0.8388,21530.0,0,1,0,0,0,2
+5382,ITT Technical Institute-Richmond,0.0,20948.0,0.8388,23919.0,0,1,0,0,0,2
+5386,ITT Technical Institute-Lathrop,0.0,20332.0,0.8388,21678.0,0,1,0,0,0,2
+5436,ITT Technical Institute-Wilmington,0.0,21797.0,0.8388,24281.0,0,1,0,0,0,2
+5440,Johnson & Wales University-Denver,0.0,14976.0,0.7079,24423.0,0,1,0,0,0,2
+5472,Pacific Islands University,0.0,8574.0,0.8929,15289.0,0,1,0,0,0,2
+5563,Yeshiva Shaarei Torah of Rockland,0.0,6264.0,1.0,18750.0,0,1,0,0,0,2
+5585,ITT Technical Institute-Springfield,0.0,22812.0,0.8388,23378.0,0,1,0,0,0,2
+5586,ITT Technical Institute-Chantilly,0.0,21519.0,0.8388,22570.0,0,1,0,0,0,2
+5588,Franklin W Olin College of Engineering,0.0,10631.0,0.1685,19971.0,0,1,0,0,0,2
+5606,ITT Technical Institute-Canton,0.0,22517.0,0.8388,23278.0,0,1,0,0,0,2
+5608,Pennsylvania College of Health Sciences,0.0,13823.0,0.5201,24984.0,0,1,0,0,0,2
+5645,Family of Faith College,0.0,1385.0,0.6667,16025.0,0,1,0,0,0,2
+5671,ITT Technical Institute-Duluth,0.0,19313.0,0.8388,22988.0,0,1,0,0,0,2
+5672,ITT Technical Institute-Hilliard,0.0,23895.0,0.8388,21784.0,0,1,0,0,0,2
+5701,National University College-Rio Grande,0.0,444.0,0.8571,9159.0,0,1,0,0,0,2
+5773,ITT Technical Institute-Eden Prairie,0.0,24938.0,0.8388,21872.0,0,1,0,0,0,2
+5813,Neumont University,0.0,15610.0,0.7997,31588.0,0,1,0,0,0,2
+5814,Johnson & Wales University-Charlotte,0.0,15292.0,0.7079,23355.0,0,1,0,0,0,2
+5853,Ecclesia College,0.0,9885.0,0.3074,17801.0,0,1,0,0,0,2
+5873,Stanbridge College,0.0,7399.0,0.7871,21249.0,0,1,0,0,0,2
+5894,ITT Technical Institute-Kansas City,0.0,22596.0,0.8388,23325.0,0,1,0,0,0,2
+5895,ITT Technical Institute-Kennesaw,0.0,21486.0,0.8388,22574.0,0,1,0,0,0,2
+5896,ITT Technical Institute-Owings Mills,0.0,24691.0,0.8388,23133.0,0,1,0,0,0,2
+5897,ITT Technical Institute-Warrensville Heights,0.0,19741.0,0.8388,22924.0,0,1,0,0,0,2
+5999,ITT Technical Institute-Charlotte South,0.0,23132.0,0.8388,20821.0,0,1,0,0,0,2
+6000,ITT Technical Institute-Clovis,0.0,19683.0,0.8388,22663.0,0,1,0,0,0,2
+6002,ITT Technical Institute-Swartz Creek,0.0,24461.0,0.8388,24178.0,0,1,0,0,0,2
+6003,ITT Technical Institute-Lexington,0.0,22487.0,0.8388,23641.0,0,1,0,0,0,2
+6004,ITT Technical Institute-Maumee,0.0,25893.0,0.8388,23366.0,0,1,0,0,0,2
+6005,ITT Technical Institute-Oklahoma City,0.0,18868.0,0.8388,23521.0,0,1,0,0,0,2
+6006,ITT Technical Institute-Tulsa,0.0,20462.0,0.8388,22695.0,0,1,0,0,0,2
+6018,Rasmussen College-Illinois,0.0,15593.0,0.7679,18572.0,0,1,0,0,0,2
+6080,Bais Medrash Toras Chesed,0.0,4360.0,0.4605,6128.0,0,1,0,0,0,2
+6088,Visible Music College,0.0,27350.0,0.5536,31229.0,0,1,0,0,0,2
+6121,ITT Technical Institute-St Petersburg,0.0,20456.0,0.8388,23590.0,0,1,0,0,0,2
+6122,ITT Technical Institute-Baton Rouge,0.0,20280.0,0.8388,22525.0,0,1,0,0,0,2
+6123,ITT Technical Institute-Columbia,0.0,24356.0,0.8388,24597.0,0,1,0,0,0,2
+6124,ITT Technical Institute-Wichita,0.0,21448.0,0.8388,24731.0,0,1,0,0,0,2
+6125,ITT Technical Institute-Atlanta,0.0,20779.0,0.8388,23872.0,0,1,0,0,0,2
+6126,ITT Technical Institute-Mobile,0.0,16980.0,0.8388,23280.0,0,1,0,0,0,2
+6128,ITT Technical Institute-South Bend,0.0,21781.0,0.8388,23395.0,0,1,0,0,0,2
+6145,Rasmussen College-Wisconsin,0.0,16287.0,0.7679,17723.0,0,1,0,0,0,2
+6207,Yeshivas Be'er Yitzchok,0.0,8410.0,1.0,16476.0,0,1,0,0,0,2
+6208,Yeshiva Toras Chaim,0.0,30520.0,1.0,3585.0,0,1,0,0,0,2
+6209,Talmudical Seminary of Bobov,0.0,7460.0,0.8684,2540.0,0,1,0,0,0,2
+6251,ITT Technical Institute-Cary,0.0,21553.0,0.8388,22797.0,0,1,0,0,0,2
+6252,ITT Technical Institute-Madison,0.0,19061.0,0.8388,23990.0,0,1,0,0,0,2
+6253,ITT Technical Institute-Clive,0.0,22703.0,0.8388,24197.0,0,1,0,0,0,2
+6254,ITT Technical Institute-Columbus,0.0,19072.0,0.8388,22800.0,0,1,0,0,0,2
+6255,ITT Technical Institute-Phoenix,0.0,23590.0,0.8388,22573.0,0,1,0,0,0,2
+6256,ITT Technical Institute-Madison,0.0,24555.0,0.8388,22849.0,0,1,0,0,0,2
+6257,ITT Technical Institute-High Point,0.0,18662.0,0.8388,24428.0,0,1,0,0,0,2
+6260,The Art Institute of Raleigh-Durham,0.0,15483.0,0.4829,27525.0,0,1,0,0,0,2
+6289,The King’s College,0.0,10778.0,0.7115,23910.0,0,1,0,0,0,2
+6291,Chamberlain College of Nursing-Ohio,0.0,22749.0,0.5081,22746.0,0,1,0,0,0,2
+6292,Chamberlain College of Nursing-Arizona,0.0,21788.0,0.5081,19540.0,0,1,0,0,0,2
+6373,Yeshiva of Machzikai Hadas,0.0,7344.0,1.0,14976.0,0,1,0,0,0,2
+6411,Providence Christian College,0.0,15302.0,0.5328,17364.0,0,1,0,0,0,2
+6461,ITT Technical Institute-Springfield,0.0,22172.0,0.8388,23966.0,0,1,0,0,0,2
+6463,ITT Technical Institute-Concord,0.0,20870.0,0.8388,23299.0,0,1,0,0,0,2
+6465,ITT Technical Institute-Charlotte North,0.0,19318.0,0.8388,24121.0,0,1,0,0,0,2
+6502,Herzing University-Toledo,0.0,5517.0,0.749,20749.0,0,1,0,0,0,2
+6590,Bethel College,0.0,4307.0,1.0,10863.0,0,1,0,0,0,2
+6599,West Coast University-Orange County,0.0,21412.0,0.5238,40370.0,0,1,0,0,0,2
+6600,West Coast University-Ontario,0.0,20601.0,0.5238,36627.0,0,1,0,0,0,2
+6622,National University College-Ponce,0.0,444.0,0.8571,8838.0,0,1,0,0,0,2
+6724,ITT Technical Institute-Aurora,0.0,19801.0,0.8388,24570.0,0,1,0,0,0,2
+6726,ITT Technical Institute-Culver City,0.0,17545.0,0.8388,22087.0,0,1,0,0,0,2
+6727,ITT Technical Institute-Dearborn,0.0,20627.0,0.8388,21891.0,0,1,0,0,0,2
+6728,ITT Technical Institute-Las Vegas,0.0,18426.0,0.8388,24450.0,0,1,0,0,0,2
+6735,Herzing University-Kenosha,0.0,6721.0,0.749,19147.0,0,1,0,0,0,2
+6736,Herzing University-Brookfield,0.0,7870.0,0.749,20547.0,0,1,0,0,0,2
+6793,Remington College-Heathrow Campus,1.0,10021.0,0.7805,19150.0,0,1,0,0,0,2
+6801,Chamberlain College of Nursing-Virginia,0.0,21610.0,0.5081,26120.0,0,1,0,0,0,2
+6928,Chamberlain College of Nursing-Missouri,0.0,21521.0,0.5081,22547.0,0,1,0,0,0,2
+6961,South University-The Art Institute of Fort Worth,0.0,14878.0,0.4829,26886.0,0,1,0,0,0,2
+7065,Academy of Couture Art,0.0,26042.0,0.7241,32826.0,0,1,0,0,0,2
+7114,Bais HaMedrash and Mesivta of Baltimore,0.0,26876.0,1.0,10690.0,0,1,0,0,0,2
+7120,Yeshiva Gedolah Zichron Leyma,0.0,4317.0,1.0,7050.0,0,1,0,0,0,2
+7122,Be'er Yaakov Talmudic Seminary,0.0,7935.0,1.0,7030.0,0,1,0,0,0,2
+7277,Yeshiva Gedolah Kesser Torah,0.0,7802.0,1.0,5260.0,0,1,0,0,0,2
+7279,Yeshiva Yesodei Hatorah,0.0,9593.0,1.0,8831.0,0,1,0,0,0,2

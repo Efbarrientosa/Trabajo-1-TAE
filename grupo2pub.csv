@@ -1,0 +1,76 @@
+index,INSTNM,DISTANCEONLY,TUITFTE,ADM_RATE_ALL,NPT4_PUB,HIGHDEG_ Associate degree,HIGHDEG_ Bachelor&#39;s degree,HIGHDEG_ Certificate degree,HIGHDEG_ Graduate degree,HIGHDEG_ Non-degree-granting,Labels_3Clusters
+197,University of Arkansas-Fort Smith,0.0,2204.0,0.5736,6727.0,0,1,0,0,0,2
+609,Fort Lewis College,0.0,5566.0,0.875,14398.0,0,1,0,0,0,2
+875,Abraham Baldwin Agricultural College,0.0,2104.0,0.709,9477.0,0,1,0,0,0,2
+901,College of Coastal Georgia,0.0,2420.0,0.8221,11144.0,0,1,0,0,0,2
+926,Gordon State College,0.0,1896.0,0.4529,8798.0,0,1,0,0,0,2
+979,University of Hawaii-West Oahu,0.0,4390.0,0.7643,6118.0,0,1,0,0,0,2
+988,Lewis-Clark State College,0.0,4589.0,0.9977,12152.0,0,1,0,0,0,2
+1508,Louisiana State University-Alexandria,0.0,4173.0,0.6074,11047.0,0,1,0,0,0,2
+1564,University of Maine at Fort Kent,0.0,6008.0,0.6293,12695.0,0,1,0,0,0,2
+1565,University of Maine at Machias,0.0,4444.0,0.854,9133.0,0,1,0,0,0,2
+1937,University of Minnesota-Crookston,0.0,5639.0,0.6916,11894.0,0,1,0,0,0,2
+1945,University of Minnesota-Morris,0.0,5637.0,0.5764,14583.0,0,1,0,0,0,2
+2242,University of New Hampshire at Manchester,0.0,11082.0,0.7779,18338.0,0,1,0,0,0,2
+2354,Institute of American Indian and Alaska Native Culture,0.0,4447.0,1.0,10181.0,0,1,0,0,0,2
+2460,CUNY Medgar Evers College,0.0,2396.0,0.9141,8081.0,0,1,0,0,0,2
+2461,CUNY New York City College of Technology,0.0,3180.0,0.768,5896.0,0,1,0,0,0,2
+2622,SUNY College of Technology at Alfred,0.0,3258.0,0.5494,14839.0,0,1,0,0,0,2
+2623,SUNY College of Technology at Canton,0.0,3280.0,0.7824,12749.0,0,1,0,0,0,2
+2624,SUNY College of Technology at Delhi,0.0,3608.0,0.5867,14339.0,0,1,0,0,0,2
+2625,SUNY College of Agriculture and Technology at Cobleskill,0.0,4023.0,0.7309,15280.0,0,1,0,0,0,2
+2626,Farmingdale State College,0.0,5323.0,0.5264,10590.0,0,1,0,0,0,2
+2627,Morrisville State College,0.0,3329.0,0.5898,15930.0,0,1,0,0,0,2
+2823,Dickinson State University,0.0,5100.0,0.4868,10079.0,0,1,0,0,0,2
+2935,Kent State University at Ashtabula,0.0,6079.0,0.8302,11845.0,0,1,0,0,0,2
+2936,Kent State University at East Liverpool,0.0,6097.0,0.8302,11101.0,0,1,0,0,0,2
+2937,Kent State University at Stark,0.0,5984.0,0.8302,9949.0,0,1,0,0,0,2
+2938,Kent State University at Trumbull,0.0,6442.0,0.8302,11160.0,0,1,0,0,0,2
+2939,Kent State University at Tuscarawas,0.0,5752.0,0.8302,10838.0,0,1,0,0,0,2
+2940,Kent State University at Salem,0.0,5744.0,0.8302,10808.0,0,1,0,0,0,2
+2942,Kent State University at Geauga,0.0,6098.0,0.8302,10213.0,0,1,0,0,0,2
+2988,Ohio State University-Lima Campus,0.0,6689.0,0.5553,12468.0,0,1,0,0,0,2
+2989,Ohio State University-Mansfield Campus,0.0,6740.0,0.5553,15377.0,0,1,0,0,0,2
+2990,Ohio State University-Marion Campus,0.0,6853.0,0.5553,11143.0,0,1,0,0,0,2
+2991,Ohio State University-Newark Campus,0.0,6605.0,0.5553,14829.0,0,1,0,0,0,2
+3095,Oklahoma Panhandle State University,0.0,3926.0,0.4767,11034.0,0,1,0,0,0,2
+3107,Rogers State University,0.0,3608.0,0.5445,12256.0,0,1,0,0,0,2
+3111,University of Science and Arts of Oklahoma,0.0,2778.0,0.6246,7956.0,0,1,0,0,0,2
+3354,Pennsylvania State University-Penn State New Kensington,0.0,8237.0,0.6488,15104.0,0,1,0,0,0,2
+3355,Pennsylvania State University-Penn State Shenango,0.0,8130.0,0.6488,14244.0,0,1,0,0,0,2
+3356,Pennsylvania State University-Penn State Wilkes-Barre,0.0,7030.0,0.6488,14309.0,0,1,0,0,0,2
+3357,Pennsylvania State University-Penn State Worthington Scranton,0.0,7842.0,0.6488,14410.0,0,1,0,0,0,2
+3359,Pennsylvania State University-Penn State Altoona,0.0,6419.0,0.6488,22976.0,0,1,0,0,0,2
+3360,Pennsylvania State University-Penn State Beaver,0.0,7505.0,0.6488,17232.0,0,1,0,0,0,2
+3363,Pennsylvania State University-Penn State Brandywine,0.0,6072.0,0.6488,13691.0,0,1,0,0,0,2
+3364,Pennsylvania State University-Penn State Dubois,0.0,9136.0,0.6488,15147.0,0,1,0,0,0,2
+3365,Pennsylvania State University-Penn State Fayette- Eberly,0.0,7046.0,0.6488,12899.0,0,1,0,0,0,2
+3366,Pennsylvania State University-Penn State Hazleton,0.0,7148.0,0.6488,19132.0,0,1,0,0,0,2
+3368,Pennsylvania State University-Penn State Greater Allegheny,0.0,8544.0,0.6488,16863.0,0,1,0,0,0,2
+3369,Pennsylvania State University-Penn State Mont Alto,0.0,7317.0,0.6488,20426.0,0,1,0,0,0,2
+3371,Pennsylvania State University-Penn State Schuylkill,0.0,7959.0,0.6488,17030.0,0,1,0,0,0,2
+3390,University of Pittsburgh-Bradford,0.0,11148.0,0.6088,16199.0,0,1,0,0,0,2
+3391,University of Pittsburgh-Greensburg,0.0,11828.0,0.6088,16996.0,0,1,0,0,0,2
+3392,University of Pittsburgh-Johnstown,0.0,12242.0,0.6088,18539.0,0,1,0,0,0,2
+3526,University of South Carolina-Beaufort,0.0,6420.0,0.7304,13874.0,0,1,0,0,0,2
+3932,Vermont Technical College,0.0,12309.0,0.8257,17433.0,0,1,0,0,0,2
+4011,The University of Virginia's College at Wise,0.0,6013.0,0.7449,8843.0,0,1,0,0,0,2
+4018,Virginia Military Institute,0.0,12355.0,0.4732,17802.0,0,1,0,0,0,2
+4111,Bluefield State College,0.0,2262.0,0.4267,8843.0,0,1,0,0,0,2
+4119,Glenville State College,0.0,3587.0,0.7446,15890.0,0,1,0,0,0,2
+4134,Potomac State College of West Virginia University,0.0,4705.0,0.8311,7006.0,0,1,0,0,0,2
+4144,West Virginia University Institute of Technology,0.0,7357.0,0.8311,7811.0,0,1,0,0,0,2
+4253,Colegio Universitario de San Juan,0.0,516.0,0.9762,2718.0,0,1,0,0,0,2
+4259,Escuela de Artes Plasticas de Puerto Rico,0.0,2203.0,0.7154,2428.0,0,1,0,0,0,2
+4290,University of Puerto Rico-Aguadilla,0.0,777.0,0.9234,2146.0,0,1,0,0,0,2
+4291,University of Puerto Rico-Arecibo,0.0,557.0,0.5302,6324.0,0,1,0,0,0,2
+4292,University of Puerto Rico-Bayamon,0.0,1001.0,0.2547,3795.0,0,1,0,0,0,2
+4293,University of Puerto Rico-Carolina,0.0,1546.0,0.8065,6681.0,0,1,0,0,0,2
+4294,University of Puerto Rico-Cayey,0.0,833.0,0.8342,6781.0,0,1,0,0,0,2
+4295,University of Puerto Rico-Humacao,0.0,666.0,0.4487,5635.0,0,1,0,0,0,2
+4296,University of Puerto Rico-Utuado,0.0,741.0,0.4908,8016.0,0,1,0,0,0,2
+4299,University of Puerto Rico-Ponce,0.0,957.0,0.6398,7714.0,0,1,0,0,0,2
+4442,New College of Florida,0.0,2783.0,0.6061,10015.0,0,1,0,0,0,2
+5581,Nevada State College,0.0,3347.0,0.5037,11319.0,0,1,0,0,0,2
+6498,University of Minnesota-Rochester,0.0,15445.0,0.4455,16992.0,0,1,0,0,0,2
+7323,Middle Georgia State College,0.0,2744.0,0.4486,9049.0,0,1,0,0,0,2
