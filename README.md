@@ -36,7 +36,7 @@ Estas variables excluyentes entre si , y estas indican en promedio cuanto deberi
  
 ## Matriz de Coorelacion
 Como podemos ver , usando las variables escogidas observamos que no tienen coeficientes de relacion muy altos entre ellos por ende pueden ser usados para la prediccion , en el caso de NPT4_PUB y NT4_PRIV ,son variables que son excluyentes entre si, por lo tanto , estas no tienen coorelacion entre ellas.
- 
+![](https://github.com/Efbarrientosa/Trabajo-1-TAE/blob/main/matriz_corr.png) 
 ## Primer clustering (Instituciones Publicas)
  
 Para este clustering usamos las variables previamente escogidas pero dejando de lado la variable NT4_PRIV
@@ -44,11 +44,11 @@ Para este clustering usamos las variables previamente escogidas pero dejando de 
 ### Curva del codo
 Usando la tecnica de la curva del codo podemos obtener un numero ideal de clusters para el modelo ,con esto vemos que el numero ideal de clusters es 4.
  
-Imagen 1
- 
+![](https://github.com/Efbarrientosa/Trabajo-1-TAE/blob/main/codo_pub.png)
+
 ### Dendrograma
  
-Imagen 2
+![](https://github.com/Efbarrientosa/Trabajo-1-TAE/blob/main/dendro_pib.png)
  
 ## Descripcion de los grupos
  
@@ -120,11 +120,11 @@ Para este clustering usamos las variables previamente escogidas pero dejando de 
 ### Curva del codo
 Usando la tecnica de la curva del codo podemos obtener un numero ideal de clusters para el modelo ,con esto vemos que el numero ideal de clusters es 4.
  
-Imagen 3
+![](https://github.com/Efbarrientosa/Trabajo-1-TAE/blob/main/codo_priv.png)
  
 ### Dendrograma
  
-Imagen 4
+![](https://github.com/Efbarrientosa/Trabajo-1-TAE/blob/main/dendro_priv.png)
  
 ## Descripcion de los grupos
  
