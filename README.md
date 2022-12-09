@@ -202,5 +202,5 @@ Con el anterior agrupamiento podemos formar patrones en las instituciones y con 
  
 ## Referencias
 [[1] Streamlit](https://streamlit.io/)<br>
-[[2] Stackoverflow](https://stackoverflow.com/)
+[[2] Stackoverflow](https://stackoverflow.com/)<br>
 [[3] Cluster Analysis Exercise 2](https://data.world/exercises/cluster-analysis-exercise-2)
