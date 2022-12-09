@@ -201,3 +201,6 @@ Para poder aplicar el mismo contexto para los colombianos se puede aplicar el mi
 Con el anterior agrupamiento podemos formar patrones en las instituciones y con esto generar grupos que generen opciones de instituciones dependiendo de las variables escogidas, gracias esto na persona puede elegir con mas facilidad instituciones de educacion superior por el tipo de grupo
  
 ## Referencias
+[[1] Streamlit](https://streamlit.io/)<br>
+[[2] Stackoverflow](https://stackoverflow.com/)
+[[3] Cluster Analysis Exercise 2](https://data.world/exercises/cluster-analysis-exercise-2)
